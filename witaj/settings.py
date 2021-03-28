@@ -26,7 +26,7 @@ SECRET_KEY = 'vbbza1ei&p$^51s)a_a#b=vz*skr94-nnd0!l@%%o-+mwcb-*%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'witaj.pazdro.eu', ]
 
 
 # Application definition
